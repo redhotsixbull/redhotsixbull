@@ -32,3 +32,5 @@
 목표
 사용자 경험을 최적화하고, 성능이 뛰어난 웹 및 모바일 애플리케이션을 개발하는 것을 목표로 하고 있습니다.
 앞으로는 다양한 기술 스택을 활용하여 더 나은 사용자 경험을 제공하는 개발자가 되고 싶습니다.
+
+[이력서](https://drive.google.com/file/d/1ya3fjHFMlmODQLALUCcpanjdAu5p8vCP/view?usp=drive_link)
