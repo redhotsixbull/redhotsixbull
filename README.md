@@ -2,8 +2,3 @@
 
 Frontend 개발자 입니다. 
 NextJS, React , Flutter , Android를 주로합니다.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redhotsixbull&layout=compact&theme=dracula)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redhotsixbull&show_icons=true&theme=tokyonight)
